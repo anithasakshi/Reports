@@ -152,4 +152,6 @@ Following inferences can be drawn from the Report:
    - Chicago - 3.04K 
 - Total Receivables - 70.02K .
 
+  (This is the One of the Power BI challenges)
+
 
